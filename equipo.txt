@@ -1,0 +1,5 @@
+//instalaciones de redux
+npm add redux react-redux
+
+//estilos
+npm add node-sass
